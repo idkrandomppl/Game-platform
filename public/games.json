@@ -1,0 +1,16 @@
+[
+  {
+    "id": "Fun",
+    "title": "What Body???",
+    "description": "Hide the body lol",
+    "embedUrl": "https://bun-tired.itch.io/what-body",
+    "thumbnail": "https://img.itch.zone/aW1hZ2UvMjM5MDc3NC8xNDE1NDE0Ni5wbmc=/original/o40KUa.png"
+  },
+  {
+    "id": "Idk",
+    "title": "Puzzle Time",
+    "description": "Solve puzzles to win!",
+    "embedUrl": "https://example.com/games/puzzle-time/index.html",
+    "thumbnail": "https://example.com/games/puzzle-time/thumb.png"
+  }
+]
