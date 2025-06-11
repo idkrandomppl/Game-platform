@@ -2,11 +2,12 @@
   "name": "gamehub",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://idkrandomppl/Game-platform",
+  "homepage": "https://idkrandomppl.github.io/Game-platform",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.14.1"
+    "react-router-dom": "^6.14.1",
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
